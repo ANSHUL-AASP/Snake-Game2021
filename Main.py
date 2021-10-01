@@ -1,5 +1,6 @@
 # Simple snake game in Python
 # By Anshul
+#JUST FOR FUN
 # Lets do it
 
 import turtle
